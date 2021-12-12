@@ -1,4 +1,4 @@
-package com.sim1zzo.microservices.camelmicroservicesa;
+package com.sim1zzo.microservices.camelmicroservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

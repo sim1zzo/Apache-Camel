@@ -1,4 +1,4 @@
-package com.sim1zzo.microservices.camelmicroservicesa.beans;
+package com.sim1zzo.microservices.camelmicroservices.beans;
 
 import org.springframework.stereotype.Component;
 

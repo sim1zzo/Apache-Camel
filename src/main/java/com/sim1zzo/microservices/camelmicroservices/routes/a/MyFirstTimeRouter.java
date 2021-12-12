@@ -1,12 +1,10 @@
-package com.sim1zzo.microservices.camelmicroservicesa.routes.a;
+package com.sim1zzo.microservices.camelmicroservices.routes.a;
 
-import com.sim1zzo.microservices.camelmicroservicesa.beans.GetCurrentTimeBeanClass;
-import com.sim1zzo.microservices.camelmicroservicesa.beans.LoggingBean;
+import com.sim1zzo.microservices.camelmicroservices.beans.GetCurrentTimeBeanClass;
+import com.sim1zzo.microservices.camelmicroservices.beans.LoggingBean;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import java.time.LocalDateTime;
 
 @Component
 public class MyFirstTimeRouter extends RouteBuilder {

@@ -1,4 +1,4 @@
-package com.sim1zzo.microservices.camelmicroservicesa;
+package com.sim1zzo.microservices.camelmicroservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
